@@ -1,6 +1,7 @@
 # Vanqor
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) for making wiki pages (and maybe a feature voting system later)
+
 > This project is probably not what you are looking for yet
 
 ## Setup

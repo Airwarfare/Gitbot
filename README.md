@@ -1,6 +1,6 @@
 # gitbot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that bot for making wiki pages (and maybe a feature voting system later)
+> A GitHub App built with [Probot](https://github.com/probot/probot) for making wiki pages (and maybe a feature voting system later)
 
 ## Setup
 

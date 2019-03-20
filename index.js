@@ -6,11 +6,7 @@ module.exports = app => {
   // Your code here
   app.log('Yay, the app was loaded!')
 
-  app.on('gollum', async context => {
-    app.log(context);
-  })
-
-  app.on('push', async context => {
+  app.on(`*`, async context => {
     app.log(context);
   })
   

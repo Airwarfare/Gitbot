@@ -1,12 +1,12 @@
 {
-  "name": "gitbot",
-  "version": "1.0.0",
+  "name": "Vanqor",
+  "version": "0.0.1",
   "description": "bot for making wiki pages (and maybe a feature voting system later)",
   "author": "Airwarfare <jordanlispi@gmail.com>",
   "license": "ISC",
-  "repository": "https://github.com//gitbot.git",
-  "homepage": "https://github.com//gitbot",
-  "bugs": "https://github.com//gitbot/issues",
+  "repository": "https://github.com/Airwarfare/Vanqor.git",
+  "homepage": "https://github.com/Airwarfare/Vanqor",
+  "bugs": "https://github.com/Airwarfare/Vanqor/issues",
   "keywords": [
     "probot",
     "github",
